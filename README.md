@@ -18,3 +18,40 @@ Hata yönetimi:
 Sıfıra bölme hatası
 
 Geçersiz karakter uyarısı
+
+
+
+#####
+Test Senaryoları (Kod İçinde Destekleniyor)
+Temel Aritmetik
+
+3 + 5 → 8
+
+10 / 2 → 5
+
+2 * 3 + 4 → 10 (öncelik kontrolü)
+
+Parantezli İfadeler
+
+(1 + 2) * 4 → 12
+
+10 / (5 - 3) → 5
+
+Değişken Atama
+
+x = 5 → Assigned 5 to x
+
+x * 3 → 15
+
+Hata Yönetimi
+
+5 / 0 → Error: Division by zero
+
+3 $ 2 → Error: Invalid character
+
+Üs Alma (Bonus)
+
+2 ^ 3 → 8
+
+
+#####
