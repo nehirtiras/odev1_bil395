@@ -1,6 +1,6 @@
 # odev1_bil395
 
-Basit Hesap Makinesi (Lex & Yacc)
+# Basit Hesap Makinesi (Lex & Yacc)
 Özellikler:
 
 Temel işlemler: +, -, *, /
@@ -19,7 +19,7 @@ Sıfıra bölme hatası
 
 Geçersiz karakter uyarısı
 *****
-Değişken Yönetimi:
+# Değişken Yönetimi:
 
 Sabit boyutlu symbol table (100 eleman)
 
@@ -35,7 +35,7 @@ Sıfıra bölme hatası
 
 Geçersiz karakter uyarısı
 *****
-Kurulum & Çalıştırma
+# Kurulum & Çalıştırma
 
 
 lex calculator.l
@@ -47,7 +47,7 @@ gcc lex.yy.c y.tab.c -o calculator -lm
 
 
 *****
-Test Senaryoları (Kod İçinde Destekleniyor)
+# Test Senaryoları (Kod İçinde Destekleniyor)
 Temel Aritmetik
 
 3 + 5 → 8
