@@ -19,7 +19,7 @@ Sıfıra bölme hatası
 
 Geçersiz karakter uyarısı
 
-#####
+*****
 Kurulum & Çalıştırma
 
 
@@ -31,7 +31,7 @@ gcc lex.yy.c y.tab.c -o calculator -lm
 ./calculator
 
 
-#####
+*****
 Test Senaryoları (Kod İçinde Destekleniyor)
 Temel Aritmetik
 
@@ -62,6 +62,3 @@ Hata Yönetimi
 Üs Alma (Bonus)
 
 2 ^ 3 → 8
-
-
-#####
