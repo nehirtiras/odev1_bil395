@@ -47,20 +47,16 @@ gcc lex.yy.c y.tab.c -o calculator -lm
 
 
 *****
-# Test Senaryoları (Kod İçinde Destekleniyor)
+# Test Senaryoları
 Temel Aritmetik
 
 3 + 5 → 8
 
-10 / 2 → 5
-
-2 * 3 + 4 → 10 (öncelik kontrolü)
+10 * 4 → 40
 
 Parantezli İfadeler
 
 (1 + 2) * 4 → 12
-
-10 / (5 - 3) → 5
 
 Değişken Atama
 
@@ -72,7 +68,7 @@ Hata Yönetimi
 
 5 / 0 → Error: Division by zero
 
-3 $ 2 → Error: Invalid character
+3 % 2 → Error: Invalid character
 
 Üs Alma (Bonus)
 
