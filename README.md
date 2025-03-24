@@ -1,7 +1,8 @@
 # odev1_bil395
 
 Basit Hesap Makinesi (Lex & Yacc)
-Özellikler
+Özellikler:
+
 Temel işlemler: +, -, *, /
 
 Üs alma: ^
