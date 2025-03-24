@@ -18,7 +18,22 @@ Hata yönetimi:
 Sıfıra bölme hatası
 
 Geçersiz karakter uyarısı
+*****
+Değişken Yönetimi:
 
+Sabit boyutlu symbol table (100 eleman)
+
+strdup() ile hafıza yönetimi
+
+Sayı Desteği:
+
+Tüm sayılar double olarak işlenir
+
+Hata Kontrolü:
+
+Sıfıra bölme hatası
+
+Geçersiz karakter uyarısı
 *****
 Kurulum & Çalıştırma
 
