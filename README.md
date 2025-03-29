@@ -1,4 +1,4 @@
-# odev1_bil395
+# odev1_bil395 Nehir Tıraş 231101065
 
 # Basit Hesap Makinesi (Lex & Yacc)
 Özellikler:
